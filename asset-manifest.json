@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/styled_components/static/js/main.30323436.chunk.js",
+    "main.js.map": "/styled_components/static/js/main.30323436.chunk.js.map",
+    "runtime-main.js": "/styled_components/static/js/runtime-main.fcf95a61.js",
+    "runtime-main.js.map": "/styled_components/static/js/runtime-main.fcf95a61.js.map",
+    "static/js/2.1ffd8c58.chunk.js": "/styled_components/static/js/2.1ffd8c58.chunk.js",
+    "static/js/2.1ffd8c58.chunk.js.map": "/styled_components/static/js/2.1ffd8c58.chunk.js.map",
+    "index.html": "/styled_components/index.html",
+    "static/js/2.1ffd8c58.chunk.js.LICENSE.txt": "/styled_components/static/js/2.1ffd8c58.chunk.js.LICENSE.txt",
+    "static/media/doctor_nurse.svg": "/styled_components/static/media/doctor_nurse.4097dc4b.svg",
+    "static/media/health_staff.png": "/styled_components/static/media/health_staff.f0abe4dd.png",
+    "static/media/medical_nurses.svg": "/styled_components/static/media/medical_nurses.ad3f2280.svg",
+    "static/media/rehab.svg": "/styled_components/static/media/rehab.3d1bb693.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcf95a61.js",
+    "static/js/2.1ffd8c58.chunk.js",
+    "static/js/main.30323436.chunk.js"
+  ]
+}
